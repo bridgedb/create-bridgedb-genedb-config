@@ -20,10 +20,12 @@ affy_hg_u95b	Affymetrix probe id	Affy	X
 affy_hg_u95c	Affymetrix probe id	Affy	X
 affy_hg_u95d	Affymetrix probe id	Affy	X
 affy_hg_u95e	Affymetrix probe id	Affy	X
+affy_ht_hg_u133_plus_pm	Affymetrix probe id	Affy	X
 affy_hta_2_0	Affymetrix probe id	Affy	X
 affy_huex_1_0_st_v2	Affymetrix probe id	Affy	X
 affy_hugene_1_0_st_v1	Affymetrix probe id	Affy	X
 affy_hugene_2_0_st_v1	Affymetrix probe id	Affy	X
+affy_hugene_2_1_st_v1	Affymetrix probe id	Affy	X
 affy_hugenefl	Affymetrix probe id	Affy	X
 affy_mg_u74a	Affymetrix probe id	Affy	X
 affy_mg_u74av2	Affymetrix probe id	Affy	X
@@ -107,6 +109,7 @@ agilent_gpl17465	Agilent probe id	Agilent	Ag
 agilent_gpl17670	Agilent probe id	Agilent	Ag
 agilent_gpl17686	Agilent probe id	Agilent	Ag
 agilent_gpl17689	Agilent probe id	Agilent	Ag
+agilent_gpl19072	Agilent probe id	Agilent	Ag
 agilent_gpl19384	Agilent probe id	Agilent	Ag
 agilent_gpl19516	Agilent probe id	Agilent	Ag
 agilent_gpl20686	Agilent probe id	Agilent	Ag
